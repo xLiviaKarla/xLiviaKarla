@@ -3,7 +3,7 @@
   <table style="float: left; font-size: 10px; border-collapse: collapse; margin: 5px;">
     <tr>
       <td style="padding-right: 5px;">🇧🇷</td>
-      <td><a href="link-para-versao-em-ingles">🇺🇸 View in English</a></td>
+      <td><a href="README_EN.md">🇺🇸 View in English</a></td>
     </tr>
   </table>
 </div>
